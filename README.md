@@ -1,1 +1,1 @@
-source for [2λ.com](https://2λ.com)
+source for [perelyn.github.io](https://perelyn.github.io)
